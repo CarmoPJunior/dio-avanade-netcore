@@ -1,6 +1,6 @@
 # 🏗️ Desafio de projeto - Fundamentos -  Avanade DIO
 
-Desafio de projeto utilizando **.NET 9**, para o praticar Fundamentos .Net do curso da Avanade na DIO.
+Desafio de projeto utilizando **.NET 9**, para praticar os conceitos dos Fundamentos de .Net do curso da Avanade na DIO.
 
 ---
 
