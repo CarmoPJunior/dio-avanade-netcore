@@ -17,6 +17,7 @@ dotnet new console -n DesafioProjetoHospedagem
 dotnet new console -n DesafiosPooCelular
 
 dotnet new webapi -n DesafiosMinimalApi
+dotnet new webapi -n DesafiosApiEntityFramework
 ```
 
 ## Referências
